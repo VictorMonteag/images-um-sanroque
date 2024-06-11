@@ -3,7 +3,6 @@ publishDate: 2024-10-06T00:00:00Z
 author: Victor Monteagudo
 title: Concierto de primavera 2024
 excerpt: Start your web journey with AstroWind – harness Astro and Tailwind CSS for a stunning site. Explore our guide now.
-image: ../img-posts/ConciertoPrimavera.png
 category: Conciertos
 tags:
   - astro
